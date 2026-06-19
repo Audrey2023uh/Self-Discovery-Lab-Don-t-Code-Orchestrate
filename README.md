@@ -2,8 +2,9 @@
 
 **By:** Audrey Rah
 **Course:** EDS6397 – Generative AI and Applications
+#**University:** University of Houston
+
 **Assignment:** Self Discovery Lab: Don't Code, Orchestrate
-**University:** University of Houston
 
 A CLI-based personal assistant that reads a local schedule, checks public weather data from Open-Meteo, and gives rule-based advice for each event. It also includes an optional browser UI for easier demonstration.
 
