@@ -1,6 +1,6 @@
 Weather-Aware Personal Assistant
 
-Author: Audrey Rah
+By: Audrey Rah
 Course: Self Discovery Lab: Don't Code, Orchestrate
 University: University of Houston
 
